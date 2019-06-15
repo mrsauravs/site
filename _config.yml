@@ -1,7 +1,7 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+title: Inverse Lattice
+description: A platform for your technological needs
+url: https://mrsauravs.github.io/site
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -29,10 +29,9 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
-#google.plus:        username
+#email:             mrsauravs@zoho.com
 twitter:            username
-#facebook:           username
+#facebook:          username
 github:             username
 stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
