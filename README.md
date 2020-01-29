@@ -1,4 +1,4 @@
-# Inverse Lattice Stream
+# Inverse Lattice
   
 A platform to collaborate on new technological ideas.
 
