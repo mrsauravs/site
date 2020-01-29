@@ -12,8 +12,6 @@ tag:
 - Graphite Docs
 ---
 
-<a href="{{ site.url }}/images/halve-home-image.png"><img src="{{ site.url }}/images/halve-home-image.png" alt="Home Page of Halve"></a>  
-
 <center><b>Smart Publishing</b> is based on smart contract. A smart contract is basically a blockchain.</center><br>
      
 Internet of things (IoT) can be referred to a number of interconnected things. We are now part of a vicious web that spins all across the globe. Today, IoT is as dumb as Internet. It needs people and their data for its sustainability. Corporations are fueled with engineers to weave an interwoven web of data that connects everyone to everything. Some of us have accepted it wholeheartedly but some are still concerned. Without being concerned about the privacy and security, we are still seeing an avalanche of newer and better technologies joining hands with IoT. In this digital era, almost everything speaks to each other, no matter how you set your privacy levels. The most recent technology that hit IoT is blockchain and I refer precisely to a Smart Contract.
