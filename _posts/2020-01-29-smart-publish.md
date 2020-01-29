@@ -39,4 +39,4 @@ People have already gathered and designed systems on blockchain to secure web co
 
 If you are not ready for all these different technology players, you can always opt for [Publica](https://publica.com/). It’s an open platform that lets you do everything at one place.
 
-And if you are looking to start somewhere fresh into this exciting new technology, I would suggest that you look into Steemit and [Graphite Docs](https://app.graphitedocs.com/).
+And if you are looking to start somewhere fresh into this exciting new technology, I would suggest that you look into [Steemit](https://steemit.com/) and [Graphite Docs](https://app.graphitedocs.com/).
