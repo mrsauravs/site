@@ -4,17 +4,17 @@
 title: Inverse Lattice
 logo: 
 author: Saurabh Sugandh
-description: this is meta description
+description: Details about Saurabh
 email: mrsauravs@gmail.com
 phone: +91 9535 791 480
 address: Bengaluru, Karnataka, India
 copyright: Copyright &copy; 2020 Designed by Saurabh Sugandh
 
 menu:
-- {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
-- {name: Contact, link: '/contact'}
+- {name: Docs, link: 'https://docs.inverselattice.com'}
+- {name: Blog, link: 'https://blog.inverselattice.com'}
+- {name: Opinion, link: 'https://opinion.inverselattice.com'}
+- {name: Resume, link: '/contact'}
 
 
 #-------------------------------
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Saurabh <br> writer, designer, and tech enthusiast
 
 social:
 - {icon: "ti-facebook", link: "#"}
