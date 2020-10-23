@@ -60,13 +60,10 @@ skills:
 - {name: DITA XML, color: '#67f0d7', value: '90%'}
 - {name: oXygen XML Editor, color: '#f0ee67', value: '80%'}
 - {name: PTC Arbortext Editor, color: '#fc8b3a', value: '70%'}
-- {name: Adobe FrameMaker, color: '#fc473a', value: '60%'}
+- {name: Git, color: '#fc473a', value: '60%'}
 - {name: SDL Trisoft/KC, color: '#3adffc', value: '50%'}
 - {name: Adobe Acrobat, color: '#3a74fc', value: '40%'}
 - {name: Adobe InDesign, color: '#bb3afc', value: '30%'}
-- {name: Adobe Photoshop, color: '#f23afc', value: '20%'}
-- {name: Adobe Illustrator, color: '#fc3aae', value: '10%'}
-- {name: Just Systems XMetal, color: '#fc3a3a', value: '5%'}
 
 
 #-------------------------------
