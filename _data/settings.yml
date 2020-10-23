@@ -95,10 +95,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: DITA XML, color: '#fdb157', value: '90%'}
+- {name: Git, color: '#9473e6', value: '60%'}
+- {name: Markdown, color: '#bdecf6', value: '80%'}
+- {name: HTML/CSS, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
@@ -106,9 +106,9 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Senior Technical Writer, icon: 'icon-1.png', date: 'Jul 2019 - Present', organization: 'Informatica'}
-- {name: Technical Writer 3, icon: 'icon-2.png', date: 'Jun 2017 - Jul 2019', organization: 'Sophos'}
-- {name: Senior Technical Associate, icon: 'icon-3.png', date: 'Jan 2015 - Apr 2017', organization: 'THEMEFISHER'}
+- {name: Senior Technical Writer, icon: 'informatica.png', date: 'Jul 2019 - Present', organization: 'Informatica'}
+- {name: Technical Writer 3, icon: 'sophos.jpg', date: 'Jun 2017 - Jul 2019', organization: 'Sophos'}
+- {name: Senior Technical Associate, icon: 'avaya.jpg', date: 'Jan 2015 - Apr 2017', organization: 'Avaya'}
 
 
 #-------------------------------
