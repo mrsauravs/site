@@ -14,7 +14,7 @@ menu:
 - {name: Docs, link: 'https://docs.inverselattice.com'}
 - {name: Blog, link: 'https://blog.inverselattice.com'}
 - {name: Opinion, link: 'https://opinion.inverselattice.com'}
-- {name: Resume, link: 'https://github.com/mrsauravs/site/blob/master/sugandh_saurabh_India.pdf'}
+- {name: Resume, link: '/resume'}
 
 
 #-------------------------------
