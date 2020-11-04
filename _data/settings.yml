@@ -12,10 +12,11 @@ copyright: Copyright &copy; 2020 Designed by Saurabh Sugandh
 
 menu:
 - {name: Docs, link: 'https://docs.inverselattice.com'}
-- {name: Blog, link: 'https://blog.inverselattice.com'}
+- {name: Technology, link: 'https://tech.inverselattice.com'}
 - {name: Opinion, link: 'https://opinion.inverselattice.com'}
 - {name: Cinema, link: 'https://cinema.inverselattice.com'}
-- {name: Resume, link: 'https://github.com/mrsauravs/site/blob/master/sugandh_saurabh_India.pdf'}
+- {name: About, link: 'https://profile.inverselattice.com'}
+- {name: Download Resume, link: 'https://github.com/mrsauravs/site/blob/master/sugandh_saurabh_India.pdf'}
 
 
 #-------------------------------
