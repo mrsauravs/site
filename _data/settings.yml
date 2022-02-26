@@ -5,16 +5,15 @@ title: Profile
 logo: 
 author: Saurabh Sugandh
 description: Details about Saurabh
-email: ssugandh@inverselattice.com
+email: sugandh.saurabh@yahoo.com
 phone: +91 9535 791 480
 address: Bengaluru, Karnataka, India
 copyright: Copyright &copy; 2020 Re-designed by Saurabh Sugandh
 
 menu:
 - {name: Docs, link: 'https://docs.inverselattice.com'}
-- {name: Technology, link: 'https://tech.inverselattice.com'}
 - {name: Opinion, link: 'https://opinion.inverselattice.com'}
-- {name: Cinema, link: 'https://cinema.inverselattice.com'}
+- {name: Cinema, link: 'https://inverselattice.wpcomstaging.com'}
 - {name: Download Resume, link: 'https://github.com/mrsauravs/site/blob/master/sugandh_saurabh_India.pdf'}
 
 
