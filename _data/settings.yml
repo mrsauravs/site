@@ -41,10 +41,9 @@ hero:
   hero-title: Hi! I'm Saurabh Sugandh. <br> Take a look around to discover me. </br>
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-facebook", link: "https://www.facebook.com/saurabh.sugandh"}
+- {icon: "ti-linkedin", link: "https://www.linkedin.com/in/saurabh-sugandh-97280148"}
+- {icon: "ti-twitter", link: "https://twitter.com/sugandh_saurabh"}
 
 
 #-------------------------------
